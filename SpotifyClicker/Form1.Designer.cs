@@ -222,7 +222,7 @@
             this.asdasd.Name = "asdasd";
             this.asdasd.Size = new System.Drawing.Size(204, 17);
             this.asdasd.TabIndex = 65;
-            this.asdasd.Text = "Spotify FREE | cheat.gq | Nightbot";
+            this.asdasd.Text = "Spotify FREE | IlyxitCZ | Tonda.UwU";
             this.asdasd.Click += new System.EventHandler(this.asdasd_Click);
             // 
             // Main

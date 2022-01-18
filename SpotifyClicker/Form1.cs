@@ -75,8 +75,8 @@ namespace night_client
 
         private void asdasd_Click(object sender, EventArgs e)
         {
-            System.Diagnostics.Process.Start("https://youtube.com/Nightbot");
-            System.Diagnostics.Process.Start("http://cheat.gq");
+            System.Diagnostics.Process.Start("https://youtube.com/IlyxitCZ");
+            System.Diagnostics.Process.Start("instagram.com/Tonda.UwU");
         }
     }
 }
